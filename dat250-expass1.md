@@ -1,7 +1,7 @@
 # Erlend Skutlaberg
 
 ## Process
-First i needed to verify that my computer was set up after the criteria given in the task. This was mainly done in the terminal <br>
+First i needed to verify that my computer was set up after the criteria given in the task. This was mainly done in the terminal. <br>
 Secondly, i started on my heroku app. After downloading all the necessities, I started the creation my first heroku app. <br>
 This went pretty smooth. I had some errors due to not reading the guide carefully enough, which were corrected after a careful read of the guide.
 
