@@ -12,19 +12,19 @@ https://github.com/Skutlis/JPA-tutorial/tree/main/dat250-jpa-example-master/ecli
 I inspected the tables with the Database extension in Intellij ultimate edition. This was done by linking the path and logging <br>
 in with the credentials defined in the percistence.xml file. <br>
 
-![alt text](database.png "Databse_screenshot")
+![alt text](pic/database.png "Databse_screenshot")
 
 ### Databases from exercise2: <br>
-![alt text](address.png "Databse_screenshot")
-![alt text](bank.png "Databse_screenshot")
-![alt text](creditcard.png "Databse_screenshot")
-![alt text](person.png "Databse_screenshot")
-![alt text](pincode.png "Databse_screenshot")
+![alt text](pic/address.png "Databse_screenshot")
+![alt text](pic(bank.png "Databse_screenshot")
+![alt text](pic/creditcard.png "Databse_screenshot")
+![alt text](pic/person.png "Databse_screenshot")
+![alt text](pic/pincode.png "Databse_screenshot")
 
 ## Pending issues
 I didn't get the test to run properly at the end(they did run at some point) due to an error i can't understand:
 
-![alt text](errors.png "Databse_screenshot")
+![alt text](pic/errors.png "Databse_screenshot")
 
 And about 90 more lines of exceptions.. <br>
 Everything is in the database, so i don't really understand this problem.
