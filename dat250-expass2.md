@@ -1,0 +1,29 @@
+# Erlend Skutlaberg
+
+## Technical problems
+I encountered a couple of problems. First problem was that the new versions of the eclipselink folder didn't contain the jars <br>
+needed for this exercise. Secondly, i had problems with erors because my database was open in the database inspector in Intellij. <br>
+
+## Link to exercise 2
+
+
+
+## Inspection
+I inspected the tables with the Database extension in Intellij ultimate edition. This was done by linking the path and logging <br>
+in with the credentials defined in the percistence.xml file. <br>
+
+![alt text](database.png "Databse_screenshot")
+
+Databases from exercise2: <br>
+![alt text](address.png "Databse_screenshot")
+![alt text](bank.png "Databse_screenshot")
+![alt text](creditcard.png "Databse_screenshot")
+![alt text](person.png "Databse_screenshot")
+![alt text](pincode.png "Databse_screenshot")
+
+## Pending issues
+I didn't get the test to run properly at the end(they did run at some point) due to an error i can't understand:
+
+![alt text](errors.png "Databse_screenshot")
+
+Everything is in the database, so i don't really understand this problem.
