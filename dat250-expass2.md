@@ -15,16 +15,20 @@ in with the credentials defined in the percistence.xml file. <br>
 ![alt text](pic/database.png "Databse_screenshot")
 
 ### Databases from exercise2: <br>
-![alt text](pic/address.png "Databse_screenshot")
-![alt text](pic(bank.png "Databse_screenshot")
-![alt text](pic/creditcard.png "Databse_screenshot")
-![alt text](pic/person.png "Databse_screenshot")
-![alt text](pic/pincode.png "Databse_screenshot")
+![alt text](pic/address.png "address")
+![alt text](pic(bank.png "bank")
+![alt text](pic/creditcard.png "creditcard")
+![alt text](pic/person.png "person")
+![alt text](pic/pincode.png "pincode")
 
 ## Pending issues
 I didn't get the test to run properly at the end(they did run at some point) due to an error i can't understand:
 
-![alt text](pic/errors.png "Databse_screenshot")
+![alt text](pic/errors.png "errors")
 
 And about 90 more lines of exceptions.. <br>
 Everything is in the database, so i don't really understand this problem.
+
+## UPDATE
+I used getters and setters instead of @Data, and now the tests passes without any errors!
+![alt text](/pic/passed.png "Test passes")
