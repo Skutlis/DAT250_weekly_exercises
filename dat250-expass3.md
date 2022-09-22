@@ -12,7 +12,7 @@ shell worked perfectly.
 ### Exercise 1: Insert
 ![alt text](/pic/mongoDBInsert.png "Insert screenshot")
 
-### Exercise1: Query in MongoDB Compass
+### Exercise 1: Query in MongoDB Compass
 ![alt text](/pic/MDBQueryCompass.png "Query in MongoDB compass")
 
 ### Exercise 1: Update documents
@@ -33,7 +33,7 @@ an overview of num_orders, total items sold and the average items sold for each 
 One of the greatest things about map-reduce is that we can re-use it later if we get more orders in the database, which <br>
 can update the collection we already have, keeping it updated at all times. <br>
 
-The collection obtained is shown below
+The collection obtained is shown below <br>
 [!Alt text](/pic/mapreduce_result.png "map-reduce result")
 Here,  we got the columns "_id", "count", "qty"(quantity) and "avg"(average). <br>
 From the result, it seems like the store sells most oranges, where each customer on average buys 9 oranges. <br>
