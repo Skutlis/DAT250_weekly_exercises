@@ -34,7 +34,7 @@ One of the greatest things about map-reduce is that we can re-use it later if we
 can update the collection we already have, keeping it updated at all times. <br>
 
 The collection obtained is shown below <br>
-[!Alt text](/pic/mapreduce_result.png "map-reduce result")
+![Alt text](/pic/mapreduce_result.png "map-reduce result") <br>
 Here,  we got the columns "_id", "count", "qty"(quantity) and "avg"(average). <br>
 From the result, it seems like the store sells most oranges, where each customer on average buys 9 oranges. <br>
 The least sold item is pears, even though the average quantity bought is 10 (but only 1 customer). <br>
