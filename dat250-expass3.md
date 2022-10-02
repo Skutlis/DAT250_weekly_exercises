@@ -31,7 +31,7 @@ shell worked perfectly.
 The map-reduce store the collection within the database. It is handy to get a different representation of the data, in this instance,<br>
 an overview of num_orders, total items sold and the average items sold for each item in the database. <br>
 One of the greatest things about map-reduce is that we can re-use it later if we get more orders in the database, which <br>
-can update the collection we already have, keeping it updated at all times. <br>
+can update the collection we already have, keeping it updated at all times. <br> 
 
 The collection obtained is shown below <br>
 ![Alt text](/pic/mapreduce_result.png "map-reduce result") <br>
