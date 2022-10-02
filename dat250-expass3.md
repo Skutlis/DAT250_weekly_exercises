@@ -7,7 +7,7 @@ shell worked perfectly.
 ## Screenshots
 
 ### Validation of installer
-![alt text](/pic/mongoDbVal.png "SHA256 checksum validation")
+![alt text](/pic/mongoDbVal.png "SHA256 checksum validation  ")
 
 ### Exercise 1: Insert
 ![alt text](/pic/mongoDBInsert.png "Insert screenshot")
@@ -40,4 +40,4 @@ From the result, it seems like the store sells most oranges, where each customer
 The least sold item is pears, even though the average quantity bought is 10 (but only 1 customer). <br>
 This overview can help a store determine which items they need to stock up on, and which they don't need <br>
 too many of. In this case, we don't really have enough data to determine what items we need to stock up on. <br>
-For instance, if the average quantity of pears holds, then we don't need too many customers before they sell a lot. 
+For instance, if the average quantity of pears holds, then we don't need too many customers before they sell a lot. <br>
