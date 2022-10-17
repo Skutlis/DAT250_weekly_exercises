@@ -13,5 +13,10 @@ Experiment 2: <br>
 https://github.com/Skutlis/angular
 
 
+## UPDATE
+I finally got all functionality to work. The solution: I had to add some functionality in the rest, <br>
+namely an option(/*) which allowed all sources to connect to the REST api. When this was done, the rest<br>
+fell in place pretty quickly.
+
 
 
