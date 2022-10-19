@@ -4,7 +4,7 @@
 
 I had problems to compile and and run the compiled files through the terminal when i used a maven project. <br>
 I solved this by extracting the java-files from that project, and put them together in a folder with all the jars needed<br>
-to run RabbitMQ. The errors i got was ClasNotFound and ClassDefNotFound
+to run RabbitMQ. The errors i initially got was ClasNotFound and ClassDefNotFound
 
 ## Experiment 2
 
